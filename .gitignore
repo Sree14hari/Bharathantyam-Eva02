@@ -1,0 +1,5 @@
+dataset_split/
+dataset_clean/
+dataset_foundational_29/
+Bharatanatyam-Mudra-Dataset/
+*.pth
