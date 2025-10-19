@@ -1,4 +1,5 @@
 <img width="1280" height="720" alt="bharatha" src="https://github.com/user-attachments/assets/a91a987e-2d3a-4bd5-a105-dc39b2cf82cf" />
+
 # Bharathanatyam Eva-02
 
 A deep learning project for the recognition, classification, and analysis of **Bharathanatyam** dance mudras (hand gestures) using the state-of-the-art **EVA-02** vision transformer model.
